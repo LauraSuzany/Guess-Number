@@ -4,6 +4,7 @@
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   
 </div>
 
@@ -26,9 +27,11 @@
  </figure>
 </div>
 
+![image](https://user-images.githubusercontent.com/83149455/215892915-1d5a6739-d67a-4352-9268-c2a548de92f6.png)
+
 </div>
 <div align="center">
-O obejtivo dessa programa: Fazer uma breve apresentação usando os recursos informados na 'badge' acima
+O obejtivo dessa programa: Acertar o número sorteado em três tentaivas
 obs: Meu conhecimento é em backend, logo há algumas limitções em frotend 
 ✍ "Every day is a learning Day" business: L.M code e Tecnologia
 </div>
