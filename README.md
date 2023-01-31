@@ -26,8 +26,8 @@
   
  </figure>
 </div>
-
-![image](https://user-images.githubusercontent.com/83149455/215892915-1d5a6739-d67a-4352-9268-c2a548de92f6.png)
+  
+ <img src="https://user-images.githubusercontent.com/83149455/215892915-1d5a6739-d67a-4352-9268-c2a548de92f6.png" width=83% height=50%>
 
 </div>
 <div align="center">
