@@ -23,21 +23,21 @@
 
     <main class="container">
 
-      <form>
+      <form id="form">
         <label for="kick">
           Digite um número entre (0 -10):
         </label>
         <input type="number" id="kick" max="10" placeholder="0">
         </input>
-        <button>jogar!</button>
+        <button id="play" type="submit">jogar!</button>
       </form>
 
       <section class="result-box" id="result">
-        <h2 id="status">Adivinhe o número sorteado!</h2>
+        <h2 id="newStatus">Adivinhe o número sorteado!</h2>
         <span id="attempt">Tentativa: 0</span>
       </section>
 
-      <button id="btn-restart">Jogar denovo!</button>
+      <button id="btn-restart" onclick="Restart()">Jogar denovo!</button>
     </main>
     
     <footer>
